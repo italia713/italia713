@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @italia713
-- 👀 I’m interested in Software Development, Android Development, and Cloud computing
-- 📫 How to reach me ita77072@gmail.com
-- 
+<!-- Level 1: Sample Bio -->
+### Hi, I'm Italia!
+
+🖥️ Currently a senior studying Computer Science at Houston Christian University, Houston TX<br/>
+
+
 
